@@ -75,11 +75,11 @@ function Main(){
                 <p>Crafting confidence, one strand at a time.</p>
             </div>
             <div class="style">
-                <img src={Hair2} alt="Hair2" height={"350px"}/>
-                <img src={Hair3} alt="Hair3" height={"350px"}/>
-                <img src={Hair4} alt="Hair4" height={"350px"}/>
-                <img src={Hair5} alt="Hair5" height={"350px"}/>
-                <img src={Hair6} alt="Hair6" height={"350px"}/>
+                <img src={Hair2} alt="Hair2" width={"18.4%"}/>
+                <img src={Hair3} alt="Hair3" width={"18.4%"}/>
+                <img src={Hair4} alt="Hair4" width={"18.4%"}/>
+                <img src={Hair5} alt="Hair5" width={"18.4%"}/>
+                <img src={Hair6} alt="Hair6" width={"18.4%"}/>
             </div>
         </section>
     </main>
