@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/barber-react/static/css/main.a249473b.css",
-    "main.js": "/barber-react/static/js/main.9a45f220.js",
+    "main.js": "/barber-react/static/js/main.f24be94a.js",
     "static/js/453.5c61273c.chunk.js": "/barber-react/static/js/453.5c61273c.chunk.js",
     "static/media/BGbarber.jpg": "/barber-react/static/media/BGbarber.5efbb6d4c80618cfc49e.jpg",
     "static/media/Barber.jpg": "/barber-react/static/media/Barber.7ce1a64a326c37b82364.jpg",
@@ -12,11 +12,11 @@
     "static/media/Hair3.jpg": "/barber-react/static/media/Hair3.0c74256dbd83c8dbc66d.jpg",
     "index.html": "/barber-react/index.html",
     "main.a249473b.css.map": "/barber-react/static/css/main.a249473b.css.map",
-    "main.9a45f220.js.map": "/barber-react/static/js/main.9a45f220.js.map",
+    "main.f24be94a.js.map": "/barber-react/static/js/main.f24be94a.js.map",
     "453.5c61273c.chunk.js.map": "/barber-react/static/js/453.5c61273c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a249473b.css",
-    "static/js/main.9a45f220.js"
+    "static/js/main.f24be94a.js"
   ]
 }
